@@ -1,0 +1,29 @@
+{
+    "intents": [
+        {
+            "symptoms": ["fever", "high temperature", "chills"],
+            "disease": "Flu",
+            "guidance": "Drink plenty of fluids and rest."
+        },
+        {
+            "symptoms": ["cough", "sore throat", "runny nose"],
+            "disease": "Cold",
+            "guidance": "Gargle with warm salt water and stay hydrated."
+        },
+        {
+            "symptoms": ["vomiting", "diarrhea", "stomach pain"],
+            "disease": "Food Poisoning",
+            "guidance": "Drink ORS solution and rest."
+        },
+        {
+            "symptoms": ["leg pain", "joint pain", "knee pain"],
+            "disease": "Arthritis",
+            "guidance": "Apply a warm compress and consult a doctor."
+        },
+        {
+            "symptoms": ["chest pain", "shortness of breath", "heartburn"],
+            "disease": "Heart Attack",
+            "guidance": "Seek emergency medical attention immediately."
+        }
+    ]
+}
